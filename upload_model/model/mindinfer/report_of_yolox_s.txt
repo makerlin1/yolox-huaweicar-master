@@ -1,0 +1,5 @@
+[Start Convert]
+[WARNING] 364:42 The operator ResizeNearestNeighbor may not be converted accurately. Please check its parameters with your original model and MindSpore official documents.
+[WARNING] 403:42 The operator ResizeNearestNeighbor may not be converted accurately. Please check its parameters with your original model and MindSpore official documents.
+[Convert Over]
+Converted Rate: 100.00%.
